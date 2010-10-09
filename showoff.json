@@ -1,0 +1,8 @@
+{ "name": "My Preso", "sections": [ {"section":"title"},
+                                    {"section":"about_me"},
+                                    {"section":"brief_history"},
+                                    {"section":"features"},
+                                    {"section":"examples"},
+                                    {"section":"future_direction"},
+                                    {"section":"summary"} ]
+}
