@@ -49,8 +49,8 @@
 
 !SLIDE
 
+    @@@ruby
     #Gemfile
-
     gem 'spree', '0.30.0'
 
 !SLIDE
