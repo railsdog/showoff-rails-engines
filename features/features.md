@@ -38,7 +38,7 @@
 
 # This Opens a Whole New World of Possibilities for Rails-based Frameworks #
 
-* ![img/spree_logo.jpg](img/spree_logo.jpg)
+* ![../img/spree_logo.jpg](../img/spree_logo.jpg)
 
 !SLIDE bullets incremental
 
@@ -61,13 +61,13 @@
 
 ## Default Spree Checkout Looks Like This ##
 
-* ![img/spree_logo.jpg](img/spree_checkout.png)
+* ![../img/spree_logo.jpg](../img/spree_checkout.png)
 
 !SLIDE bullets incremental
 
 ## We Need it To Look Like This ##
 
-* ![img/spree_logo.jpg](img/sticker_checkout.png)
+* ![../img/spree_logo.jpg](../img/sticker_checkout.png)
 
 !SLIDE center
 
@@ -76,3 +76,7 @@
 !SLIDE center
 
 # Overrides to the Rescue! #
+
+
+
+

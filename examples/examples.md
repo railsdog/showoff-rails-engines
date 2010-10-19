@@ -105,5 +105,3 @@
 
     $ rake foofah:install
     $ rake db:migrate
-
-

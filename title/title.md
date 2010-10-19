@@ -4,4 +4,4 @@
 
 ## Sean Schofield ##
 
-![img/railsdog_logo_small.png](img/railsdog_logo_small.png)
+![../img/railsdog_logo_med.png](../img/railsdog_logo_med.png)
